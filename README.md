@@ -1,5 +1,7 @@
 # van Doorn–Liu–Tang conjecture (almost perfect additive complements)
 
+[![Lean 4 & Exact Verification](https://github.com/romal200/almost-perfect-additive-complements/actions/workflows/lean.yml/badge.svg)](https://github.com/romal200/almost-perfect-additive-complements/actions/workflows/lean.yml)
+
 Complete, Lean 4–formalized proof of [Conjecture 1.3](https://arxiv.org/html/2610.35027v1#S1.Thmtheorem3) of Wouter van Doorn, Boning Liu, and Quanyu Tang (*On almost perfect additive complements*, [arXiv:2610.35027v1](https://arxiv.org/abs/2610.35027), 26 Oct 2026), together with an exact structural classification of all infinite almost perfect additive complements below the $`8/5`$ threshold.
 
 - [Complete proof](PROOF.md)
